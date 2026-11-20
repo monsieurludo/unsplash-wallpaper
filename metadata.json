@@ -1,0 +1,6 @@
+{
+  "name": "Reddit Wallpaper Changer",
+  "description": "Search subreddits, preview and save wallpapers, configure automatic background rotations with custom schedules, and optionally filter for light backgrounds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
